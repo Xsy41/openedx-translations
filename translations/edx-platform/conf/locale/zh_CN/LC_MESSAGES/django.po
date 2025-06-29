@@ -21211,7 +21211,7 @@ msgstr "笔记"
 
 #: lms/templates/learner_dashboard/_dashboard_navigation_courses.html:7
 msgid "My Courses"
-msgstr "我的课程"
+msgstr "我的课程aaa"
 
 #: lms/templates/modal/_modal-settings-language.html:21
 msgid "Change Preferred Language"
